@@ -1,0 +1,18 @@
+.link {
+    text-decoration: none;
+    padding: 1rem 1rem;
+    border-radius: 5rem;
+    display:inline-flex;
+}
+
+.link-primary {
+    color:black;
+    background-color: rgb(241, 4, 4);
+    border: 2px solid darkgreen;
+}
+
+.link-secondary {
+    color:darkgray;
+    background-color: darkgreen;
+    border: 2px solid black;
+}
